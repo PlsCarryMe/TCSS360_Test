@@ -6,6 +6,7 @@ public class TestTest1 {
 		System.out.println("I'm on my second branch");
 		System.out.println("Added something to my second branch");
 		System.out.println("Added something again to my second branch");
+		System.out.println("This is something I added after pushing successfully twice to master");
 	}
 
 }
